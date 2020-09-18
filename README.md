@@ -1,5 +1,8 @@
 # Drupal8_module
-Drupal 8 module i developped in my certification.
+Certification: Drupal 8 Module Development.
+
+module_hero: fully functional custom Drupal 7 module from scratch.
+Module that displays a table of hero names with different effects.
 
 Link to my certification: 
 https://www.udemy.com/course/drupal-8-module-development/
